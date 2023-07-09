@@ -91,4 +91,9 @@ Include an evaluation of organizational policies, protocols, and procedures to m
 
 **Communicate results to stakeholders**
 
-- The end result of this process is providing a detailed report of findings, suggested improvements needed to lower the organization's level of risk, and compliance regulations and standards the organization needs to adhere to. 
+- The end result of this process is providing a detailed report of findings, suggested improvements needed to lower the organization's level of risk, and compliance regulations and standards the organization needs to adhere to.
+
+**Resources for more information**
+- Resources that you can explore to further develop your understanding of audits in the cybersecurity space are:
+  - [Assessment Auditing Resources](https://www.nist.gov/cyberframework/assessment-auditing-resources)
+  - [IT Disaster Recovery Plan](https://www.ready.gov/it-disaster-recovery-plan)
